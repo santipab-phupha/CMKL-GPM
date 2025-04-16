@@ -7,7 +7,7 @@ from folium.plugins import HeatMap
 
 # ตั้งค่าให้แสดงผลแบบ Wide
 st.set_page_config(layout="wide")
-st.title("จำลองการกระจาย (Gaussian Plume Model) บนแผนที่กรุงเทพฯ)
+st.title("จำลองการกระจาย (Gaussian Plume Model) บนแผนที่กรุงเทพฯ")
 
 st.markdown("""
 **วิธีใช้งาน:**
